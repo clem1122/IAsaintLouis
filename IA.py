@@ -9,7 +9,7 @@ from random import randint
 comp = [[0,1,2],
         [2,1,0]]
 d = []
-
+wow = "wow"
 def draft(l):
     global d
     
