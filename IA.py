@@ -5,6 +5,8 @@ Created on Sat Oct 17 14:50:04 2020
 @author: Clément P
 """
 
+#salut c'est moi
+
 from random import randint
 comp = [[0,1,2],
         [2,1,0]]
